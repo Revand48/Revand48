@@ -5,6 +5,18 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Web+Developer+%26+UI%2FUX+Designer;Building+Micro-Tools+%26+Digital+Products;Exploring+Generative+AI+%26+Automation;Crafting+Brand+Identity+%26+Visual+Design" alt="Typing Animation" /></a>
+
+<div align="center">
+![](https://streak-stats.demolab.com/?user=Revand48&theme=transparent&hide_border=false)
+</div>
+
+<div align="right">
+![](https://github-readme-stats.shion.dev/api?username=Revand48&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+</div>
+
+<div align="right">
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Revand48&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 <h3 align="center">┈⊰─ 𝑽𝒊𝒔𝒖𝒂𝒍 & 𝑫𝒆𝒔𝒊𝒈𝒏 ─⊱┈</h3>
 
 <p align="center">
@@ -46,18 +58,4 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=6&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
-<div align="center">
-  <img src="https://count.getloli.com/@:Revand48?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
