@@ -7,7 +7,7 @@
 
 Saya adalah seorang Web Developer dan Desain Grafis yang memadukan logika teknis menggunakan stack dengan estetika visual yang kuat. Ketertarikan saya dalam menyusun identitas visual dan filosofi logo, memastikan setiap produk digital tidak hanya terstruktur dengan baik tetapi juga memiliki karakter yang khas. Dengan fokus pada pengembangan Micro-Tools dan eksplorasi AI, saya terus mencari cara untuk menciptakan solusi efisien. Di luar keseharian di depan layar, saya merawat visi jangka panjang untuk merintis bisnis produk digital, sambil tetap menyeimbangkan pendidikan dengan kebiasaan traveling serta menjelajahi alam.
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Robot?style=for-the-badge&color=blue)**Other Interests**![Generative AI](https://img.shields.io/badge/Gen%20AI-Sparkles?style=for-the-badge&color=purple)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Robot?style=for-the-badge&color=blue)![Generative AI](https://img.shields.io/badge/Gen%20AI-Sparkles?style=for-the-badge&color=purple)
 
 ## ☁️ Outside of Coding
 
