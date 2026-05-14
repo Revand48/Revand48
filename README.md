@@ -3,10 +3,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Web+Developer+%26+UI%2FUX+Designer;Building+Micro-Tools+%26+Digital+Products;Exploring+Generative+AI+%26+Automation;Crafting+Brand+Identity+%26+Visual+Design" alt="Typing Animation" /></a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Revand48&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 # ![](https://streak-stats.demolab.com/?user=Revand48&theme=transparent&hide_border=false)<br/>
 # ![](https://github-readme-stats.shion.dev/api?username=Revand48&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-# ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Revand48&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 align="center">┈⊰─ 𝑽𝒊𝒔𝒖𝒂𝒍 & 𝑫𝒆𝒔𝒊𝒈𝒏 ─⊱┈</h3>
 
