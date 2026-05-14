@@ -9,9 +9,7 @@ Saya adalah seorang Web Developer dan Desain Grafis yang memadukan logika teknis
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Robot?style=for-the-badge&color=blue)![Generative AI](https://img.shields.io/badge/Gen%20AI-Sparkles?style=for-the-badge&color=purple)
 
-## ☁️ Outside of Coding
-
-# Saya suka melakukan beberapa hal seperti
+### Diluar Aktifitas Digital saya juga suka melakukan beberapa hal seperti
  **Volleyball**| **Menjelajahi Gunung**| **Traveling**| **Menjaga kebugaran**
 
 ---
