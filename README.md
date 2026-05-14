@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/Revand48/Revand48/snake-output/snake.svg" alt="Snake animation" />
 
 ![](https://streak-stats.demolab.com/?user=Revand48&theme=transparent&hide_border=false)<br/> <br>
-### ![](https://github-readme-stats.shion.dev/api?username=Revand48&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## ![](https://github-readme-stats.shion.dev/api?username=Revand48&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?
 
 <h3 align="center">┈⊰─ 𝑽𝒊𝒔𝒖𝒂𝒍 & 𝑫𝒆𝒔𝒊𝒈𝒏 ─⊱┈</h3>
