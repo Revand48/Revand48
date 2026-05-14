@@ -1,19 +1,15 @@
 <div align="center">
 
 # Hallo rekk, Aku Revand Ditya!!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Web+Developer+%26+UI%2FUX+Designer;Building+Micro-Tools+%26+Digital+Products;Exploring+Generative+AI+%26+Automation;Crafting+Brand+Identity+%26+Visual+Design" alt="Typing Animation" /></a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Visual+Identity+%26+UI%2FUX+Design;Engineering+%26+Web+Development;Building+Minimal+Digital+Products" alt="Typing Animation" />
-</a>
+## 🚀 About Me
 
-### 🚀 About Me
-
-Seorang pengembang web dan desainer yang berfokus pada estetika visual dan fungsionalitas teknis. Saya senang membangun **Micro-Tools**, mengotomatisasi alur kerja, dan mengeksplorasi potensi **Generative AI** untuk meningkatkan kreativitas digital.
-
+Saya adalah seorang Web Developer dan Desain Grafis yang memadukan logika teknis menggunakan stack dengan estetika visual yang kuat. Ketertarikan saya dalam menyusun identitas visual dan filosofi logo, memastikan setiap produk digital tidak hanya terstruktur dengan baik tetapi juga memiliki karakter yang khas. Dengan fokus pada pengembangan Micro-Tools dan eksplorasi AI, saya terus mencari cara untuk menciptakan solusi efisien. Di luar keseharian di depan layar, saya merawat visi jangka panjang untuk merintis bisnis produk digital, sambil tetap menyeimbangkan pendidikan dengan kebiasaan traveling serta menjelajahi alam.
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Robot?style=for-the-badge&color=blue)**Other Interests**![Generative AI](https://img.shields.io/badge/Gen%20AI-Sparkles?style=for-the-badge&color=purple)
 
-### ☁️ Outside of Coding
+## ☁️ Outside of Coding
 
 Saya suka melakukan beberapa hal seperti
  **Volleyball**| **Menjelajahi Gunung**| **Traveling**| **Menjaga kebugaran**
@@ -21,8 +17,6 @@ Saya suka melakukan beberapa hal seperti
 ---
 
 # Connect Gmail: [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Web+Developer+%26+UI%2FUX+Designer;Building+Micro-Tools+%26+Digital+Products;Exploring+Generative+AI+%26+Automation;Crafting+Brand+Identity+%26+Visual+Design" alt="Typing Animation" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Revand48&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
@@ -72,7 +66,7 @@ Saya suka melakukan beberapa hal seperti
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=6&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Revand48&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 <table width="100%">
