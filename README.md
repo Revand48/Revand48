@@ -13,7 +13,7 @@
 <h3 align="center">┈⊰─ 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 & 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝑺𝒕𝒂𝒄𝒌 ─⊱┈</h3>
 
 <h4 align="left">|-=─ Current Stack & Active Focus ─=-|</h4>
-<p align="cleft">
+<p align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="Git" title="Git" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/181717" height="35" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="35" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
