@@ -6,6 +6,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Revand48&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
+# 📊 GitHub Stats:
 # ![](https://streak-stats.demolab.com/?user=Revand48&theme=transparent&hide_border=false)<br/>
 # ![](https://github-readme-stats.shion.dev/api?username=Revand48&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -50,4 +51,5 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=6&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Revand48&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
