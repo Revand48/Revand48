@@ -1,5 +1,24 @@
 <div align="center">
+<div align="center">
 
+# 👨‍💻 About Me
+
+<!-- Animasi Teks Typing Ala Terminal (Warna Hijau) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4AF626&center=true&vCenter=true&width=500&lines=System.init();Loading+Knowledge...;Building+Digital+Worlds" alt="Typing SVG" />
+</a>
+
+<p align="left">
+<!-- Ubah deskripsi ini sesuai dirimu -->
+A creative mind in the digital realm, fusing art with code. Specializing in building clean, functional, and aesthetically pleasing applications while exploring the depths of Generative AI.
+</p>
+
+### 🐍 My Contribution Snake
+
+<!-- PENTING: Ganti USERNAME_KAMU (2x) dengan username GitHub-mu agar ularnya muncul -->
+<img src="https://raw.githubusercontent.com/Revand_48/Revand_48/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Web+Developer+%26+UI%2FUX+Designer;Building+Micro-Tools+%26+Digital+Products;Exploring+Generative+AI+%26+Automation;Crafting+Brand+Identity+%26+Visual+Design" alt="Typing Animation" /></a>
 
