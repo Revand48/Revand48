@@ -1,22 +1,66 @@
 <div align="center">
 <div align="center">
 
-# 👨‍💻 About Me
+# Hi there, I'm Revand! 👋
 
-<!-- Animasi Teks Typing Ala Terminal (Warna Hijau) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4AF626&center=true&vCenter=true&width=500&lines=System.init();Loading+Knowledge...;Building+Digital+Worlds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Visual+Identity+%26+UI%2FUX+Design;Engineering+%26+Web+Development;Building+Minimal+Digital+Products" alt="Typing Animation" />
 </a>
 
-<p align="left">
-<!-- Ubah deskripsi ini sesuai dirimu -->
-A creative mind in the digital realm, fusing art with code. Specializing in building clean, functional, and aesthetically pleasing applications while exploring the depths of Generative AI.
-</p>
+---
 
-### 🐍 My Contribution Snake
+### 🚀 About Me
 
-<!-- PENTING: Ganti USERNAME_KAMU (2x) dengan username GitHub-mu agar ularnya muncul -->
-<img src="https://raw.githubusercontent.com/Revand_48/Revand_48/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+Seorang pengembang web dan desainer yang berfokus pada estetika visual dan fungsionalitas teknis. Saya senang membangun **Micro-Tools**, mengotomatisasi alur kerja, dan mengeksplorasi potensi **Generative AI** untuk meningkatkan kreativitas digital.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Design & Creative**
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+**Other Interests**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Robot?style=for-the-badge&color=blue) ![Generative AI](https://img.shields.io/badge/Gen%20AI-Sparkles?style=for-the-badge&color=purple)
+
+---
+
+### 📈 GitHub Stats
+
+| ![Revand's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical) |
+| :---: | :---: |
+
+---
+
+### ☁️ Outside of Coding
+
+Saat sedang tidak berada di depan layar, biasanya saya:
+*   🏐 Aktif di lapangan **Volleyball**.
+*   🏔 Menjelajahi jalur pendakian (**Hiking**).
+*   🏃 Menjaga kebugaran dengan **Running**.
+
+---
+
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+<table width="100%">
+  <tr>
+    <td align="left">© 2026 Revand Pramaditya</td>
+    <td align="center">Crafting Digital Solutions with Precision</td>
+    <td align="right">
+      <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=github" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
