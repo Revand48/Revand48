@@ -1,7 +1,5 @@
 <div align="center">
-  <div align="center">
-  <img src="https://open.spotify.com/user/31fzc6hwvlvwrdhgxkvyhxomez54?si=gN_BrkDRSdedwATF4zPsmQ?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
+
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fzc6hwvlvwrdhgxkvyhxomez54)
 
@@ -44,7 +42,10 @@
 
 </div>
 
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=6&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+</div>
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Revand48?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
