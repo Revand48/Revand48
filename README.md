@@ -1,4 +1,7 @@
 <div align="center">
+  <div align="center">
+  <img src="https://open.spotify.com/user/31fzc6hwvlvwrdhgxkvyhxomez54?si=gN_BrkDRSdedwATF4zPsmQ?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"  />
+</div>
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fzc6hwvlvwrdhgxkvyhxomez54)
 
