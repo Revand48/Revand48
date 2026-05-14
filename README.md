@@ -11,7 +11,7 @@ Saya adalah seorang Web Developer dan Desain Grafis yang memadukan logika teknis
 
 ## ☁️ Outside of Coding
 
-Saya suka melakukan beberapa hal seperti
+# Saya suka melakukan beberapa hal seperti
  **Volleyball**| **Menjelajahi Gunung**| **Traveling**| **Menjaga kebugaran**
 
 ---
