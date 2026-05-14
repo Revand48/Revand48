@@ -1,10 +1,13 @@
 <div align="center">
 
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fzc6hwvlvwrdhgxkvyhxomez54)
-
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Web+Developer+%26+UI%2FUX+Designer;Building+Micro-Tools+%26+Digital+Products;Exploring+Generative+AI+%26+Automation;Crafting+Brand+Identity+%26+Visual+Design" alt="Typing Animation" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Revand48/Revand48/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Revand48/Revand48/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Revand48/Revand48/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
 ![](https://streak-stats.demolab.com/?user=Revand48&theme=transparent&hide_border=false)
