@@ -58,12 +58,6 @@ Saya adalah seorang Web Developer dan Desain Grafis yang memadukan logika teknis
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="Flutter" title="Flutter" />
 </p>
 
-
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=6&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
-</div>
-
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Revand48&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
@@ -77,5 +71,7 @@ Saya adalah seorang Web Developer dan Desain Grafis yang memadukan logika teknis
   </tr>
 </table>
 
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=6&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+</div>
 </div>
