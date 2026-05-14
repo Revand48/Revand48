@@ -10,10 +10,10 @@
 
 
 <div align="right">
-![](https://github-readme-stats.shion.dev/api?username=Revand48&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ <img src="https://raw.githubusercontent.com/Revand48/Revand48/stats-output/stats.svg" height="150" alt="stats graph"  />
 </div>
 
-<div align="right">
+<div align="left">
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Revand48&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 </div>
 <h3 align="center">┈⊰─ 𝑽𝒊𝒔𝒖𝒂𝒍 & 𝑫𝒆𝒔𝒊𝒈𝒏 ─⊱┈</h3>
